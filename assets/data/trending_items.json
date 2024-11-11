@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "The missing 96 percent of the universe",
+    "author": "Claire Malone",
+    "imageUrl": "assets/images/user.jpg"
+  },
+  {
+    "id": 2,
+    "title": "How Dolly Parton led me to an epiphany",
+    "author": "Abumeyang",
+    "imageUrl": "assets/images/user.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Ngobam with Denny Caknan",
+    "author": "Denny Kulon",
+    "imageUrl": "assets/images/user.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Journey into the unknown",
+    "author": "Anita Martinez",
+    "imageUrl": "assets/images/user.jpg"
+  }
+]
